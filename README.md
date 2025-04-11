@@ -41,12 +41,16 @@ Gerekli Python kütüphanelerini yüklemek için:
 ```bash
 pip install selenium allure-pytest
 
+
+
 ## Testlerin Çalıştırılması
 
 Testleri çalıştırmak için aşağıdaki komutu kullanabilirsiniz:
 
 ```bash
 python -m unittest discover tests
+
+
 
 ## Raporlama
 
